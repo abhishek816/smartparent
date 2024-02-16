@@ -2,6 +2,7 @@ import React from 'react'
 import parenting1 from '../Assets/parenting1.jpeg'
 import { Carousel } from 'bootstrap'
 import parenting3 from '../Assets/parenting3.jpg'
+import parenting2 from '../Assets/parenting2.jpeg'
 
 
 
@@ -15,15 +16,15 @@ function Carousel1() {
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active" data-bs-interval="10000">
-        <img  src={parenting3} class="d-block w-100" alt="..."/>
+        <img  src={parenting1} class="d-block w-100" alt="..."/>
         
       </div>
       <div class="carousel-item" data-bs-interval="2000">
-        <img src={parenting1} class="d-block w-100" alt="..."/>
+        <img src={parenting2} class="d-block w-150 " alt="..."/>
         
       </div>
       <div class="carousel-item">
-        <img  src={parenting1} class="d-block w-100" alt="..."/>
+        <img  src={parenting3} class="d-block w-100" alt="..."/>
         
       </div>
     </div>

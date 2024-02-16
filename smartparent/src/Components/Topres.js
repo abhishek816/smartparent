@@ -4,7 +4,7 @@ function Topres() {
   return (
     <>
       <div className='tres'><p><b>Top Resource Persons</b></p></div>
-      <div className='free-container'>
+      <div className='free-container container'>
         <div className='free-row' style={{ display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap' }}></div>
         <div style={{ display: 'flex', alignItems: 'left', flexWrap: 'wrap' }}>
           <div className='st' style={{ width: '300px', height: '100px', borderRadius: '10px', backgroundColor: 'black', display: 'flex', alignItems: 'center', justifyContent: 'center', margin: '10px' }}>

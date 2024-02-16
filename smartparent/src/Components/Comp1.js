@@ -24,9 +24,7 @@ function Comp1() {
         <li class="nav-item">
           <a class="nav-link active text-white" href="#" id='a3'>About Us</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link active text-white" href="#" id='a4'>SignIn</a>
-        </li>
+        
         <li class="nav-item">
           <a class="nav-link active text-white" href="#" id='a5'>SignUp</a>
         </li>

@@ -3,10 +3,10 @@ import React from 'react'
 function Freeb() {
   return (
     <>
-    <div className='fb'>
+    <div className='fb mb-5'>
          <p><b>Free Blogs</b></p>
       </div>
-      <div className='free-container'>
+      <div className='free-container container'>
       <div className='free-row' style={{ display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap' }}>
       <div class="card" style={{ width: '18rem', transition: 'transform .9s', marginLeft:'15px' }}>
   <div class="card-body">

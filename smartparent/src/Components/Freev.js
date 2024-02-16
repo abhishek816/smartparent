@@ -2,11 +2,11 @@ import React from 'react'
 
 function Freev() {
   return (
-    <div>
-      <div className='fvt'>
+    <div className='mb-5' >
+      <div className='fvt mb-5'>
          <p><b>Free Videos And Tutorials</b></p>
       </div>
-      <div className='free-container'>
+      <div className='free-container container'>
           <div className='free-row' style={{ display: 'flex', justifyContent: 'space-between', flexWrap: 'wrap' }}>
           <div className="card" style={{ width: '18rem', transition: 'transform .9s', marginLeft:'15px' }}>
             <img src="..." className="card-img-top" alt="video thumb" />
