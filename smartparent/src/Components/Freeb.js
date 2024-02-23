@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Freeb.js'
 function Freeb() {
   return (
     <>

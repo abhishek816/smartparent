@@ -1,5 +1,6 @@
 import React from 'react'
 import parenting1 from '../Assets/parenting1.jpeg'
+import './Topres.css'
 function Topres() {
   return (
     <>

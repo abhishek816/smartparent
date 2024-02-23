@@ -1,5 +1,7 @@
 import React from 'react'
 import logo from '../Assets/logo.png'
+import './Navitem.css'
+import './Logo.css'
 function Comp1() {
   return (
  

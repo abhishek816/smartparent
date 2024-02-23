@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Freev.css'
 function Freev() {
   return (
     <div className='mb-5' >

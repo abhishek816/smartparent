@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../Assets/logo.png' // assuming you have a separate Logo component
-
+import './Footer.css'
 function Footer() {
   return (
     <div className="footer">
